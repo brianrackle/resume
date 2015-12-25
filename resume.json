@@ -1,0 +1,145 @@
+{
+  "basics": {
+    "name": "Brian Rackle",
+    "label": "Senior Software Engineer",
+    "email": "rackle@outlook.com",
+    "phone": "(408) 218-5370",
+    "website": "http://brainstembreakfast.com",
+    "picture":"https://s.gravatar.com/avatar/6bece3435bb5ac00c81c6e6468d15993?s=64",
+    "summary": "I am a consistently recognized top performer and passionate software engineer.",
+    "location": {
+      "address": "PO Box 6269",
+      "postalCode": "CA 95150",
+      "city": "San Jose",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "brianrackle",
+        "url": "https://twitter.com/brianrackle"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "rackle",
+        "url": "https://linkedin.com/in/rackle"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Lattice Engines",
+      "position": "Senior Software Engineer",
+      "website": "http://lattice-engines.com",
+      "startDate": "2015-06-18",
+      "summary": "Scum master and technical lead tasked with bringing together newly formed team.",
+      "highlights": [
+        "Guided SaaS product through three successful releases leading to the renewal of high value contracts.",
+        "Completed highly critical and techinical development tasks quicker than previous estimates.",
+        "Improved excel export task to use costant memory on execution server and database server while maintaing performance.",
+        "Creation of secure impersonation service with active directory integration for easier customer deployments.",
+        "Lead improvements to release process, scrum practices and bug filing",
+        "Identified as best engineering hire of 2015",
+        "Company elected member of culture club to represent all of engineering.",
+        "Elected member of core values ten person committee. Further voted into the three person values finalization team.",
+        "Improved release processes and developed scrum standards."
+      ]
+    },
+    {
+      "company": "Esri",
+      "position": "Lead Software Engineer",
+      "website": "http://esri.com",
+      "startDate": "2009-02-25",
+      "endDate": "2015-06-08",
+      "summary": "Started as junior engineer and promoted to lead in August 2010. Developed tools for graphics and geometric operations in GIS.",
+      "highlights": [
+        "Developed highest performance database operations for performing geometric overlays.",
+        "Developed multi-threaded tools for raster and DEM analysi, such as identifying spot hieghts for contours.",
+        "Created C++14 API for easy python interop to allow for easy integration of scripts into compiled tools.",
+        "Created of tools of for automated map sheet production, also known as the 'Make Map Button'",
+        "Creation of web based tool for managing GIS production environments. Included task assignment, progress tracking, QA, and charting for easy understanding of project status."
+      ]
+    },
+    {
+      "company": "Autodesk",
+      "position": "Intern Software Engineer",
+      "website": "http://autodesk.com",
+      "startDate": "2007-06-13",
+      "endDate": "2009-01-20",
+      "summary": "Developed GIS tools for the AutoCAD environment and eventually in charge of coordinating work of all interns.",
+      "highlights": [
+        "Integrated “Customer Involvement Program” into the Map 3D product to track over 400 program events and user interactions to aid in development of AutoCAD Ribbon UI.",
+        "Improved speed of AutoCAD Map3D geometry snapping by several hundred percent leading to much more responsive GIS editing.",
+        "Developed a debugging tool to determine equivalency in geometry for testing editing tools."
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Graduate with distinction",
+      "date": "2014-11-01",
+      "awarder": "Sonoma State University",
+      "summary": "Graduated with recognition from the department of computer science for outstanding performance."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Sonoma State University",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2005-07-01",
+      "endDate": "2009-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Computational Geometry",
+      "level": "Expert",
+      "keywords": [
+        "sweepline",
+        "voronoi diagram",
+        "tesselation",
+        "overlay"
+      ]
+    },
+    {
+      "name": "Software Engineering",
+      "level": "Expert",
+      "keywords": [
+        "scrum",
+        "team building",
+        "documentation",
+        "management"
+      ]
+    },
+    {
+      "name": "Server Side Software",
+      "level": "Intermediate",
+      "keywords": [
+        "SQL",
+        "Web Services",
+        "High Performance",
+        "C#",
+        "C++",
+        "Elixir"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Drawing",
+      "keywords": [
+        "comics",
+        "comedy",
+        "photoshop"
+      ]
+    }
+  ]
+}
